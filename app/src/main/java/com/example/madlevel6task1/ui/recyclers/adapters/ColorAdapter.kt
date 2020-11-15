@@ -1,4 +1,4 @@
-package com.example.madlevel6task1.ui.adapters
+package com.example.madlevel6task1.ui.recyclers.adapters
 
 import android.content.Context
 import android.view.LayoutInflater
